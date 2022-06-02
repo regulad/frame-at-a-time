@@ -1,0 +1,4 @@
+version: '3'
+services:
+  template:  # TODO: Change this.
+    image: ghcr.io/regulad/docker-python-template:latest  # TODO: This too.
